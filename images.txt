@@ -1,2 +1,3 @@
 dperson/samba:latest
 bitnami/gitea:1.22.0
+mysql:5.7.44
