@@ -1,2 +1,1 @@
-portainer/portainer-ce:2.20.3-alpine
-nginx:stable-alpine3.19-perl
+dperson/samba:latest
