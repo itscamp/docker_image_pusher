@@ -1,1 +1,2 @@
 dperson/samba:latest
+bitnami/gitea:1.22.0
