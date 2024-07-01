@@ -3,3 +3,4 @@ bitnami/gitea:1.22.0
 mysql:5.7.44
 redis:6.2.14-alpine3.20
 gitea/gitea:1.22.0
+nginx:1.24.0-perl
